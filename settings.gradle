@@ -1,0 +1,2 @@
+rootProject.name = "NavigationPrac_U4Universe"
+include ':app'
